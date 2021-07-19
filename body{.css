@@ -1,0 +1,55 @@
+body{
+    background-color: #84567a;
+}
+form{
+    background-color: honeydew;
+   text-align: center;
+   margin: auto;
+   width: 50%;
+    
+}
+.h1{
+    color: #fff;
+    text-align: center;
+}
+
+#first{
+    display: block;
+    margin: auto;
+    font-size: 18px;
+    padding: 5px;
+    text-align: center;
+}
+table{
+    margin: auto;
+}
+#button{
+    background-color: #505f8a;
+    color: honeydew;
+    padding: 5px;
+    
+}
+.salam{
+    text-align: center;
+}
+#button{
+    background-color: #505f8a;
+    color: honeydew;
+    padding: 5px;
+    
+}
+.ders{
+    color: #fff;
+    text-align: center;
+}
+#button2{
+    background-color: #dd4a40;
+    color: honeydew;
+    padding: 5px;
+}
+.sign_in{
+    background-color: rgb(46, 40, 40);
+    color: honeydew;
+    padding: 10px;
+    width: 320px;
+}
